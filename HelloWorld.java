@@ -3,7 +3,6 @@ public class HelloWorld{
 		for (int i=1;i<=10;i++){
 			System.out.println("Hello..."+i);
 		}
-		
-		System.out.println("This is my first git program");
+
 	}
 }
